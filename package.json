@@ -1,0 +1,19 @@
+{
+  "name": "anothertest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamleshsingh7/anothertest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamleshsingh7/anothertest/issues"
+  },
+  "homepage": "https://github.com/kamleshsingh7/anothertest#readme"
+}
